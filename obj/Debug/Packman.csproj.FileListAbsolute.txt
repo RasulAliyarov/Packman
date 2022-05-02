@@ -1,0 +1,16 @@
+D:\Project Visual Studio2019\Packman\bin\Debug\Packman.exe.config
+D:\Project Visual Studio2019\Packman\bin\Debug\Packman.exe
+D:\Project Visual Studio2019\Packman\bin\Debug\Packman.pdb
+D:\Project Visual Studio2019\Packman\obj\Debug\Packman.csproj.AssemblyReference.cache
+D:\Project Visual Studio2019\Packman\obj\Debug\Packman.Properties.Resources.resources
+D:\Project Visual Studio2019\Packman\obj\Debug\Packman.csproj.GenerateResource.cache
+D:\Project Visual Studio2019\Packman\obj\Debug\Packman.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio2019\Packman\obj\Debug\Packman.exe
+D:\Project Visual Studio2019\Packman\obj\Debug\Packman.pdb
+D:\Project Visual Studio2019\Packman\obj\Debug\Packman.View.resources
+D:\Project Visual Studio2019\Packman\obj\Debug\Packman.MainFormController.resources
+D:\Project Visual Studio2019\Packman\bin\Debug\Packman.exe.manifest
+D:\Project Visual Studio2019\Packman\bin\Debug\Packman.application
+D:\Project Visual Studio2019\Packman\obj\Debug\Packman.TrustInfo.xml
+D:\Project Visual Studio2019\Packman\obj\Debug\Packman.exe.manifest
+D:\Project Visual Studio2019\Packman\obj\Debug\Packman.application
